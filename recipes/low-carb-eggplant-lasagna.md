@@ -53,3 +53,7 @@
 ## notes
 
 * instead of meat, i bought soft tofu and mixed it in with the ricotta cheese.
+
+## source
+
+* http://www.geniuskitchen.com/recipe/i-lost-my-noodles-low-carb-south-beach-eggplant-lasagna-83464
