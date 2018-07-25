@@ -26,4 +26,4 @@
 
 ## source
 
-- https://www.budgetbytes.com/2016/07/slow-cooker-coconut-curry-lentils/
+- <https://www.budgetbytes.com/2016/07/slow-cooker-coconut-curry-lentils/>

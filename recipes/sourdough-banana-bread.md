@@ -21,7 +21,7 @@
 
 ## source
 
-- https://www.culturesforhealth.com/learn/recipe/sourdough-recipes/sourdough-banana-bread/
+- <https://www.culturesforhealth.com/learn/recipe/sourdough-recipes/sourdough-banana-bread/>
 
 ## notes
 

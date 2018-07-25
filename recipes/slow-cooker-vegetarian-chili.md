@@ -25,4 +25,4 @@
 
 ## source
 
-- http://allrecipes.com/recipe/132394/meatiest-vegetarian-chili-from-your-slow-cooker/
+- <http://allrecipes.com/recipe/132394/meatiest-vegetarian-chili-from-your-slow-cooker/>

@@ -26,4 +26,4 @@
 
 ## source
 
-- https://www.hummusapien.com/crockpot-vegetable-curry-tofu/
+- <https://www.hummusapien.com/crockpot-vegetable-curry-tofu/>

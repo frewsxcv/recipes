@@ -21,4 +21,4 @@ Yield: 6 popovers.
 
 ## source
 
-- https://www.kingarthurflour.com/recipes/sourdough-popovers-recipe
+- <https://www.kingarthurflour.com/recipes/sourdough-popovers-recipe>

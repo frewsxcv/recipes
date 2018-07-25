@@ -56,4 +56,4 @@
 
 ## source
 
-* http://www.geniuskitchen.com/recipe/i-lost-my-noodles-low-carb-south-beach-eggplant-lasagna-83464
+* <http://www.geniuskitchen.com/recipe/i-lost-my-noodles-low-carb-south-beach-eggplant-lasagna-83464>
